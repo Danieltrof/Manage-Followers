@@ -1,8 +1,6 @@
-# Manage-Followers-For-Instagram
+# Manage-Followers-For-Instagram, Unfinished project
 Project that lists people you follow, that dont follow you back and/or vise versa
-Requires that the instagram user has a public account</br></br>
-
-# Unfinished project!!! </br></br>
+Requires that the instagram user has a public account
 
 # Instructions
 Set Up Configuration: Replace placeholders in config.py with your actual Instagram app credentials.
